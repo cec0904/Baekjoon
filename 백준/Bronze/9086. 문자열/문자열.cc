@@ -13,9 +13,6 @@ int main() {
 		cin >> str;
 
 		cout << str.front() << str.back() << endl;
-
-
-	
 	}
 
 
