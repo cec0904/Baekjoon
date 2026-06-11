@@ -17,7 +17,10 @@ int main() {
 	cin >> b;
 
 	int result = math(a, b);
+	if ( a, b < 1000) {
 	cout << result;
+}
+
 	
 
 
